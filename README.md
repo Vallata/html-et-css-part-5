@@ -61,3 +61,12 @@ Le bandeau vert indique que votre site est en ligne, félicitations ! 🎉
 Pour le consulter, il suffit de cliquer sur le lien.
 
 _NB :_ Si au bout de 10 minutes le site n’est pas en ligne, revenir à la slide précédente et choisir “none” comme source. Actualiser la page puis remettre “main” comme source.
+
+
+-- Accès rapide et plan -- </br>
+<a href="https://github.com/vallata/html-et-css-part-1" target="_blanck">Cours 1 - Les bases</a></br>
+<a href="https://github.com/vallata/html-et-css-part-2" target="_blanck">Cours 2 - Div, Class et ID</a></br>
+<a href="https://github.com/vallata/html-et-css-part-3" target="_blanck">Cours 3 - FlexBox, Components</a></br>
+<a href="https://github.com/vallata/html-et-css-part-4" target="_blanck">Cours 4 - Grid, Media queries, services tiers</a></br>
+<a href="https://github.com/vallata/html-et-css-part-5" target="_blanck">Cours 5 - Mise en ligne du site</a></br>
+
